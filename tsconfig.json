@@ -12,7 +12,7 @@
     // компилятор будет обрабатывать не только тс файлы, но и js
     "allowJs": true,
     "moduleResolution": "node",
-    "baseUrl": ".",
+    // "baseUrl": ".",
     // esModuleInterop позволяет работать с пакетами, котоыре используют
     // common js как с обычными пакетами с помощью import (require() module.export) = common js
     // import Moment from 'moment';
