@@ -8,7 +8,7 @@
     "module": "ESNext",
     // в какую компилируем для поддержки большинством браузеров
     "target": "es5",
-    "jsx": "react",
+    "jsx": "react-jsx",
     // компилятор будет обрабатывать не только тс файлы, но и js
     "allowJs": true,
     "moduleResolution": "node",
